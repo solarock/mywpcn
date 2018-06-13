@@ -90,7 +90,9 @@ define('WP_ZH_CN_ICP_NUM', true);
 /* My setting */
 define('FS_METHOD', 'direct');
 
+/*
 define( 'WP_ALLOW_MULTISITE', true );
+*/
 
 define('MULTISITE', true);
 define('SUBDOMAIN_INSTALL', false);
