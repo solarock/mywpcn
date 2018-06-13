@@ -86,6 +86,21 @@ define('WP_DEBUG', false);
  */
 define('WP_ZH_CN_ICP_NUM', true);
 
+
+/* My setting */
+define('FS_METHOD', 'direct');
+
+define( 'WP_ALLOW_MULTISITE', true );
+
+define('MULTISITE', true);
+define('SUBDOMAIN_INSTALL', false);
+define('DOMAIN_CURRENT_SITE', '127.0.0.1');
+define('PATH_CURRENT_SITE', '/');
+define('SITE_ID_CURRENT_SITE', 1);
+define('BLOG_ID_CURRENT_SITE', 1);
+
+
+
 /* 好了！请不要再继续编辑。请保存本文件。使用愉快！ */
 
 /** WordPress目录的绝对路径。 */
